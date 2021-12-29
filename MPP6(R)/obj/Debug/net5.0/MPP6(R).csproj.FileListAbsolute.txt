@@ -1,0 +1,16 @@
+D:\UNIVERSITY\5 сем\спп\readadytogo\MPP6(R)\MPP6(R)\bin\Debug\net5.0\MPP6(R).exe
+D:\UNIVERSITY\5 сем\спп\readadytogo\MPP6(R)\MPP6(R)\bin\Debug\net5.0\MPP6(R).deps.json
+D:\UNIVERSITY\5 сем\спп\readadytogo\MPP6(R)\MPP6(R)\bin\Debug\net5.0\MPP6(R).runtimeconfig.json
+D:\UNIVERSITY\5 сем\спп\readadytogo\MPP6(R)\MPP6(R)\bin\Debug\net5.0\MPP6(R).runtimeconfig.dev.json
+D:\UNIVERSITY\5 сем\спп\readadytogo\MPP6(R)\MPP6(R)\bin\Debug\net5.0\MPP6(R).dll
+D:\UNIVERSITY\5 сем\спп\readadytogo\MPP6(R)\MPP6(R)\bin\Debug\net5.0\ref\MPP6(R).dll
+D:\UNIVERSITY\5 сем\спп\readadytogo\MPP6(R)\MPP6(R)\bin\Debug\net5.0\MPP6(R).pdb
+D:\UNIVERSITY\5 сем\спп\readadytogo\MPP6(R)\MPP6(R)\obj\Debug\net5.0\MPP6(R).csproj.AssemblyReference.cache
+D:\UNIVERSITY\5 сем\спп\readadytogo\MPP6(R)\MPP6(R)\obj\Debug\net5.0\MPP6(R).GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\5 сем\спп\readadytogo\MPP6(R)\MPP6(R)\obj\Debug\net5.0\MPP6(R).AssemblyInfoInputs.cache
+D:\UNIVERSITY\5 сем\спп\readadytogo\MPP6(R)\MPP6(R)\obj\Debug\net5.0\MPP6(R).AssemblyInfo.cs
+D:\UNIVERSITY\5 сем\спп\readadytogo\MPP6(R)\MPP6(R)\obj\Debug\net5.0\MPP6(R).csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\5 сем\спп\readadytogo\MPP6(R)\MPP6(R)\obj\Debug\net5.0\MPP6(R).dll
+D:\UNIVERSITY\5 сем\спп\readadytogo\MPP6(R)\MPP6(R)\obj\Debug\net5.0\ref\MPP6(R).dll
+D:\UNIVERSITY\5 сем\спп\readadytogo\MPP6(R)\MPP6(R)\obj\Debug\net5.0\MPP6(R).pdb
+D:\UNIVERSITY\5 сем\спп\readadytogo\MPP6(R)\MPP6(R)\obj\Debug\net5.0\MPP6(R).genruntimeconfig.cache
